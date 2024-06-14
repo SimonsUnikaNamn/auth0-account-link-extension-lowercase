@@ -1,7 +1,7 @@
 {
-  "name": "auth0-account-link-extension",
-  "version": "2.6.5",
-  "description": "Auth0 Account Link Extension",
+  "name": "auth0-account-link-extension-lowercase",
+  "version": "2.6.6",
+  "description": "Auth0 Account Link Extension Lowercase",
   "main": "index.js",
   "engines": {
     "node": ">=6.9"
